@@ -1,0 +1,15 @@
+#myButton{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+.hover{
+    box-shadow: 0 0 10px hsl(279, 91%, 53%);
+    font-weight: bold;
+}
+.disabled{
+    background-color: aqua;
+    color: violet;
+}
